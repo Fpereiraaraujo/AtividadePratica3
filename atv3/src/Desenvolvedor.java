@@ -1,4 +1,7 @@
 // Classe Desenvolvedor
+
+import java.util.ArrayList;
+
 class Desenvolvedor extends Funcionario implements Trabalhavel {
     private ArrayList<String> tecnologias;
 
